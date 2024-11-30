@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MineCraft';
+    src: url(MinecraftRegular-Bmg3.ttf);
+
+.Icon {
+	font-size: 50px;
+	font-family: 'MineCraft';
+}
